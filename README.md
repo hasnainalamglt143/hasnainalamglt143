@@ -47,17 +47,7 @@ I'm a passionate **Full Stack Developer** and **Software Engineer** with experti
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=FF6B6B&currStreakLabel=58a6ff)
-
-</div>
 
 ## 🌟 Featured Projects
 
